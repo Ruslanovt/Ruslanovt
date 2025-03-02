@@ -41,5 +41,5 @@
 
 ## 🌟 Let's Connect!
 <p align="center">
-  <strong>Email:</strong> gustavohaik@proton.me
+  <strong>Email:</strong> nastfitalina@proton.me
 </p>
