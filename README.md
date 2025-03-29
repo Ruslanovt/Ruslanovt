@@ -11,7 +11,7 @@
 ## 🛠️ Tecnologias e Ferramentas  
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,mysql,sqlite,html,css,js,idea,vscodium,git" alt="Tecnologias e Ferramentas">  
+    <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,sqlite,vscodium,idea,git" alt="Tecnologias e Ferramentas">
 </p>  
 
 ---
