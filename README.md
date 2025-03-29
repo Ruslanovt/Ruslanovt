@@ -23,8 +23,7 @@
 
 ### 🖥️ Operating Systems
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows" alt="Windows">
-  <img src="https://img.shields.io/badge/Linux-E34F26?logo=linux&logoColor=black&style=for-the-badge" alt="Linux">
+  <img src="https://skillicons.dev/icons?i=windows,linux" alt="Windows-Linux">
 </p>
 
 ### 🌐 Web Development
