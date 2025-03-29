@@ -12,7 +12,7 @@
 
 ### 🚀 Programming Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://skillicons.dev/icons?i=java" alt="Java">
 </p>
 
 ### 🗄️ Databases
