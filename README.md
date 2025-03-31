@@ -28,7 +28,7 @@
 ## 🌟 Vamos Conectar!  
 
 <p align="center">
-  <strong>Email:</strong> nastfitalina@proton.me  
+  <strong>Email:</strong> ruslanovt@proton.me  
 </p>  
 
 ---
