@@ -31,4 +31,8 @@
   <strong>Email:</strong> ruslanovt@proton.me  
 </p>  
 
+<p align="center">
+  <strong>Discord:</strong> joffreyof  
+</p>  
+
 ---
