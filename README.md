@@ -8,11 +8,19 @@
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas  
+
+
+## 🛠️ Linguagens  
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,sqlite,vscodium,idea,git" alt="Tecnologias e Ferramentas">
+  <img src="https://skillicons.dev/icons?i=java,js" alt="Linguagens">
 </p>  
+
+## ⚙️ Ferramentas e Tecnologias  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,vscodium,idea,git" alt="Ferramentas">
+</p>
 
 ---
 
